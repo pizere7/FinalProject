@@ -2,7 +2,7 @@
 
 This project is a data-driven application that tracks airlines. It uses a database that is created in AWS and crawled in AWS and Redshift.
 
-#Database Design
+# Database Design
 
 The database design includes seven tables:
 
